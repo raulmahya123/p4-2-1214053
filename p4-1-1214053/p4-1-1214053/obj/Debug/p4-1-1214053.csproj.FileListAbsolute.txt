@@ -1,0 +1,8 @@
+C:\Users\L E N O V O\source\repos\p4-1-1214053\p4-1-1214053\obj\Debug\p4-1-1214053.csproj.AssemblyReference.cache
+C:\Users\L E N O V O\source\repos\p4-1-1214053\p4-1-1214053\obj\Debug\p4-1-1214053.csproj.SuggestedBindingRedirects.cache
+C:\Users\L E N O V O\source\repos\p4-1-1214053\p4-1-1214053\obj\Debug\p4-1-1214053.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\source\repos\p4-1-1214053\p4-1-1214053\bin\Debug\p4-1-1214053.exe.config
+C:\Users\L E N O V O\source\repos\p4-1-1214053\p4-1-1214053\bin\Debug\p4-1-1214053.exe
+C:\Users\L E N O V O\source\repos\p4-1-1214053\p4-1-1214053\bin\Debug\p4-1-1214053.pdb
+C:\Users\L E N O V O\source\repos\p4-1-1214053\p4-1-1214053\obj\Debug\p4-1-1214053.exe
+C:\Users\L E N O V O\source\repos\p4-1-1214053\p4-1-1214053\obj\Debug\p4-1-1214053.pdb
